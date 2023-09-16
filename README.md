@@ -27,5 +27,15 @@ Thanks for stopping by my GitHub profile. I'm excited about the journey ahead an
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshdevelopr)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshdevelopr&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigneshdevelopr&show_icons=true&theme=radical)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshdevelopr&repo=ChitChatz-App-Project-Frontend" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshdevelopr&repo=Stackoverflowclone_frontend" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshdevelopr&repo=cookzzie-recipe-project-client" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshdevelopr&repo=Ecommerce-Project" />
+</a>
