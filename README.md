@@ -25,6 +25,5 @@ Thanks for stopping by my GitHub profile. I'm excited about the journey ahead an
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshdevelopr)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshdevelopr&layout=compact)
 
