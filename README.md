@@ -27,6 +27,8 @@ Thanks for stopping by my GitHub profile. I'm excited about the journey ahead an
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vigneshdevelopr)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshdevelopr&layout=compact)
 
+<h1 style='color:'lightgreen''>FULL=STACK PROJECTS</h1>
+
 <a href="https://github.com/vigneshdevelopr/ChitChatz-App-Project-Frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshdevelopr&repo=ChitChatz-App-Project-Frontend" />
 </a>
@@ -41,4 +43,3 @@ Thanks for stopping by my GitHub profile. I'm excited about the journey ahead an
 </a>
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31idxdckwtjda6i2ki4dbriewyue)
