@@ -39,3 +39,6 @@ Thanks for stopping by my GitHub profile. I'm excited about the journey ahead an
 <a href="https://github.com/vigneshdevelopr/Ecommerce-Project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vigneshdevelopr&repo=Ecommerce-Project" />
 </a>
+
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31idxdckwtjda6i2ki4dbriewyue)
