@@ -15,6 +15,7 @@ I'm Vignesh, a passionate and aspiring Full-Stack Developer specializing in the 
 - ⚡ Fun fact: I love solving puzzles and brain teasers in my free time. Coding is like solving puzzles every day!
 
 Thanks for stopping by my GitHub profile. I'm excited about the journey ahead and the opportunities to learn, grow, and build awesome things together. Let's code the future! 😄
+
 ![](https://komarev.com/ghpvc/?username=vigneshdevelopr&style=for-the-badge&color=blueviolet)
 
 
